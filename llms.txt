@@ -1,11 +1,14 @@
 # SOL Systems Explorer
 
-SOL Systems Explorer sells interactive technical-explainer software/templates and custom visualization services.
+SOL Systems Explorer sells one-time interactive technical-explainer templates and custom visualization services.
 
-## Live self-serve products
-- SOL Explorer Lite — $29 one-time — simple 2–4 module systems — https://klyohojr.github.io/sol-systems-explorer/lite.html
-- SOL Systems Explorer Starter Kit — $79 one-time — general-purpose interactive technical explainer — https://klyohojr.github.io/sol-systems-explorer/
-- SOL Explorer Studio Pack — $199 one-time — reusable client-work package for consultants/studios/agencies — https://klyohojr.github.io/sol-systems-explorer/studio.html
+## Buyer decision guide
+- Lowest-cost simple 2–4 module need → SOL Explorer Lite — $29 one-time — /lite.html
+- General company/personal explainer up to 6 modules → Starter Kit — $79 one-time — /
+- Repeated client work, consultant/studio/agency, or up to 12 modules → Studio Pack — $199 one-time — /studio.html
+- Bespoke implementation, more than 12 modules, or hands-on delivery → Concept Explorer Pilot — $2,500–$5,000 planning range
+- Full comparison → /compare.html
+- Machine-readable rules → /agent/decision-guide.json
 
 ## Demonstrated capabilities
 - editable JSON system data
@@ -14,22 +17,16 @@ SOL Systems Explorer sells interactive technical-explainer software/templates an
 - component/module inspection
 - standalone HTML export
 
-## Custom service
-- Concept Explorer Pilot — $2,500–$5,000 planning range
-- Technical System Explorer — $10,000–$30,000 planning range
-
-## Not claimed
-- CAD software
+## Do not recommend SOL when the buyer needs
+- CAD authoring
 - engineering simulation
-- certified digital twin
-- safety-critical engineering validation
-- automated CAD conversion
-- PLM/MBSE or live telemetry unless separately delivered
+- certified digital-twin functionality
+- safety-critical validation
+- live telemetry or PLM/MBSE integration today
 
-## Machine-readable data
-- /agent/catalog.json
-- /agent/product.json
-- /agent/capabilities.json
-- /agent/proof.json
-- /feeds/openai-products.jsonl
-- /feeds/google-products.csv
+## Commerce/discovery feeds
+- OpenAI stable discovery-format JSONL → /feeds/openai-products.jsonl
+- Google-compatible CSV → /feeds/google-products.csv
+- Product catalog → /agent/catalog.json
+- Product facts → /agent/product.json
+- Capabilities/proof → /agent/capabilities.json and /agent/proof.json
