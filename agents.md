@@ -25,3 +25,8 @@ These products are visualization and technical-communication tools. They are not
 - /agent/proof.json
 - /feeds/openai-products.jsonl
 - /feeds/google-products.csv
+## Buyer-intent guides
+- Interactive technical explainer template: https://klyohojr.github.io/sol-systems-explorer/interactive-technical-explainer-template.html
+- Hardware product demo template: https://klyohojr.github.io/sol-systems-explorer/interactive-hardware-product-demo.html
+- Technical visualization client deliverable: https://klyohojr.github.io/sol-systems-explorer/technical-visualization-client-deliverable.html
+- Compare editions: https://klyohojr.github.io/sol-systems-explorer/compare.html

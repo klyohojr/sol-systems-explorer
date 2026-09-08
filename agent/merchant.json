@@ -1,12 +1,20 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "merchant_name": "SOL Systems Explorer",
   "canonical_url": "https://klyohojr.github.io/sol-systems-explorer/",
   "product_feed_openai": "https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl",
   "product_feed_google": "https://klyohojr.github.io/sol-systems-explorer/feeds/google-products.csv",
+  "decision_guide": "https://klyohojr.github.io/sol-systems-explorer/agent/decision-guide.json",
+  "compare_url": "https://klyohojr.github.io/sol-systems-explorer/compare.html",
   "terms_url": "https://klyohojr.github.io/sol-systems-explorer/terms.html",
   "privacy_url": "https://klyohojr.github.io/sol-systems-explorer/privacy.html",
   "refund_url": "https://klyohojr.github.io/sol-systems-explorer/refund.html",
-  "primary_checkout": "https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01",
-  "products": ["SOL-EXPLORER-STARTER-V1"]
+  "products": [
+    "SOL-EXPLORER-LITE-V1",
+    "SOL-EXPLORER-STARTER-V1",
+    "SOL-EXPLORER-STUDIO-V1"
+  ],
+  "pricing_model": "one_time_purchase",
+  "delivery": "digital_download",
+  "maker_and_primary_seller": true
 }

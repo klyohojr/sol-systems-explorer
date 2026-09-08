@@ -1,0 +1,5 @@
+(()=>{const q=new URLSearchParams(location.search),src=(q.get('utm_source')||q.get('ref')||'').toLowerCase();if(!src)return;const channel=/(agent|openai|chatgpt|shopify|copilot|gemini|google_feed)/.test(src)?'agent':'outbound';const links={
+'https://buy.stripe.com/00w8wP5x5bDRcRg7HG83C02':{agent:'https://buy.stripe.com/3cI7sLaRpbDRcRgfa883C04',outbound:'https://buy.stripe.com/14AaEX9Nl37l7wW8LK83C05'},
+'https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01':{agent:'https://buy.stripe.com/dRmdR92kTdLZbNce6483C06',outbound:'https://buy.stripe.com/00wcN56B9fU7dVk9PO83C07'},
+'https://buy.stripe.com/bJe5kD0cLeQ3aJ85zy83C03':{agent:'https://buy.stripe.com/6oU8wP0cLgYb04u7HG83C08',outbound:'https://buy.stripe.com/9B66oHbVt23hg3s7HG83C09'}};
+document.querySelectorAll('a[href]').forEach(a=>{const m=links[a.href];if(m)a.href=m[channel]});})();

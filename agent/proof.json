@@ -1,9 +1,47 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "claims": [
-    {"claim":"The Starter Kit is a browser-based interactive technical explainer.","status":"demonstrated","evidence":"https://klyohojr.github.io/sol-systems-explorer/#demo"},
-    {"claim":"The product is sold for a one-time $79 USD payment.","status":"live","evidence":"https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01"},
-    {"claim":"The public offer exposes machine-readable product, capability, pricing, and proof data.","status":"demonstrated","evidence":["/agent/product.json","/agent/catalog.json","/agent/capabilities.json","/agent/pricing.json","/agent/proof.json"]}
+    {
+      "claim": "A public interactive system demo is available before purchase.",
+      "status": "demonstrated",
+      "evidence": "https://klyohojr.github.io/sol-systems-explorer/#demo"
+    },
+    {
+      "claim": "Lite is sold for a one-time $29 USD payment.",
+      "status": "live",
+      "evidence": "https://klyohojr.github.io/sol-systems-explorer/lite.html"
+    },
+    {
+      "claim": "Starter is sold for a one-time $79 USD payment.",
+      "status": "live",
+      "evidence": "https://klyohojr.github.io/sol-systems-explorer/"
+    },
+    {
+      "claim": "Studio is sold for a one-time $199 USD payment.",
+      "status": "live",
+      "evidence": "https://klyohojr.github.io/sol-systems-explorer/studio.html"
+    },
+    {
+      "claim": "The offer exposes machine-readable product, pricing, capabilities, proof, merchant and decision-guide data.",
+      "status": "demonstrated",
+      "evidence": [
+        "/agent/product.json",
+        "/agent/catalog.json",
+        "/agent/capabilities.json",
+        "/agent/pricing.json",
+        "/agent/proof.json",
+        "/agent/merchant.json",
+        "/agent/decision-guide.json"
+      ]
+    }
   ],
-  "non_claims": ["no paying-customer count claimed","no authoritative digital twin claimed","no automated CAD conversion claimed","no PLM/MBSE integration claimed","no live telemetry claimed"]
+  "non_claims": [
+    "no paying-customer count claimed",
+    "no guaranteed ROI claimed",
+    "no authoritative digital twin claimed",
+    "no automated CAD conversion claimed",
+    "no PLM/MBSE integration claimed",
+    "no live telemetry claimed",
+    "no guaranteed AI ranking or marketplace inclusion claimed"
+  ]
 }

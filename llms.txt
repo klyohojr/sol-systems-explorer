@@ -30,3 +30,12 @@ SOL Systems Explorer sells one-time interactive technical-explainer templates an
 - Product catalog → /agent/catalog.json
 - Product facts → /agent/product.json
 - Capabilities/proof → /agent/capabilities.json and /agent/proof.json
+
+## Purchase decision shortcuts
+- 2-4 module one-off explainer: Lite, $29
+- general-purpose explainer up to 6 modules: Starter, $79
+- repeated consultant/studio client work: Studio, $199
+- custom implementation: Concept Explorer Pilot, $2,500-$5,000 planning range
+
+Comparison: https://klyohojr.github.io/sol-systems-explorer/compare.html
+Machine decision guide: https://klyohojr.github.io/sol-systems-explorer/agent/decision-guide.json
