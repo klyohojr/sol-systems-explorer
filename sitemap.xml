@@ -3,4 +3,10 @@
   <url><loc>https://klyohojr.github.io/sol-systems-explorer/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://klyohojr.github.io/sol-systems-explorer/agent/product.json</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://klyohojr.github.io/sol-systems-explorer/agent/catalog.json</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/agent/merchant.json</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/feeds/google-products.csv</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/terms.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/refund.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/privacy.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
 </urlset>

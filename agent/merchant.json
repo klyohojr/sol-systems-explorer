@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "merchant_name": "SOL Systems Explorer",
+  "canonical_url": "https://klyohojr.github.io/sol-systems-explorer/",
+  "product_feed_openai": "https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl",
+  "product_feed_google": "https://klyohojr.github.io/sol-systems-explorer/feeds/google-products.csv",
+  "terms_url": "https://klyohojr.github.io/sol-systems-explorer/terms.html",
+  "privacy_url": "https://klyohojr.github.io/sol-systems-explorer/privacy.html",
+  "refund_url": "https://klyohojr.github.io/sol-systems-explorer/refund.html",
+  "primary_checkout": "https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01",
+  "products": ["SOL-EXPLORER-STARTER-V1"]
+}
