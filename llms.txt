@@ -1,28 +1,35 @@
 # SOL Systems Explorer
 
-SOL Systems Explorer sells one-time interactive technical-explainer templates and custom visualization services.
+SOL Systems Explorer sells interactive technical-explainer software/templates and custom visualization services.
 
 ## Live self-serve products
-- SOL Explorer Lite — $29 one-time — simple 2–4 module system explainers — https://klyohojr.github.io/sol-systems-explorer/lite.html
-- SOL Systems Explorer Starter Kit — $79 one-time — up to 6 modules, live JSON editing, themes, mobile viewer, standalone HTML export — https://klyohojr.github.io/sol-systems-explorer/
-- SOL Explorer Studio Pack — $199 one-time — up to 12 modules, three layouts, branding controls, reusable client projects — https://klyohojr.github.io/sol-systems-explorer/studio.html
+- SOL Explorer Lite — $29 one-time — simple 2–4 module systems — https://klyohojr.github.io/sol-systems-explorer/lite.html
+- SOL Systems Explorer Starter Kit — $79 one-time — general-purpose interactive technical explainer — https://klyohojr.github.io/sol-systems-explorer/
+- SOL Explorer Studio Pack — $199 one-time — reusable client-work package for consultants/studios/agencies — https://klyohojr.github.io/sol-systems-explorer/studio.html
 
-## Live checkout
-- Lite: https://buy.stripe.com/00w8wP5x5bDRcRg7HG83C02
-- Starter: https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01
-- Studio: https://buy.stripe.com/bJe5kD0cLeQ3aJ85zy83C03
+## Demonstrated capabilities
+- editable JSON system data
+- browser-based interactive system visualization
+- mobile-friendly navigation
+- component/module inspection
+- standalone HTML export
 
-## Best fit
-Hardware startups, engineering consultants, technical visualization studios, industrial designers, technical marketers, educators, robotics, aerospace, energy, and advanced-manufacturing teams.
+## Custom service
+- Concept Explorer Pilot — $2,500–$5,000 planning range
+- Technical System Explorer — $10,000–$30,000 planning range
 
-## Limitations
-These products are visualization and technical-communication tools. They are not CAD, engineering simulation, certified digital twins, or safety-critical engineering software.
+## Not claimed
+- CAD software
+- engineering simulation
+- certified digital twin
+- safety-critical engineering validation
+- automated CAD conversion
+- PLM/MBSE or live telemetry unless separately delivered
 
-## Machine-readable endpoints
-/agents.md
-/agent/catalog.json
-/agent/pricing.json
-/agent/capabilities.json
-/agent/proof.json
-/feeds/openai-products.jsonl
-/feeds/google-products.csv
+## Machine-readable data
+- /agent/catalog.json
+- /agent/product.json
+- /agent/capabilities.json
+- /agent/proof.json
+- /feeds/openai-products.jsonl
+- /feeds/google-products.csv

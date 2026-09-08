@@ -1,13 +1,1 @@
-{
-  "schema_version": "1.1",
-  "brand": "SOL Systems Explorer",
-  "products": [
-    {"id":"explorer_lite_v1","name":"SOL Explorer Lite","price_usd":29,"status":"live","url":"https://klyohojr.github.io/sol-systems-explorer/lite.html","checkout_url":"https://buy.stripe.com/00w8wP5x5bDRcRg7HG83C02","best_for":"simple 2–4 module explainers"},
-    {"id":"starter_kit_v1","name":"SOL Systems Explorer Starter Kit","price_usd":79,"status":"live","url":"https://klyohojr.github.io/sol-systems-explorer/","checkout_url":"https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01","best_for":"general interactive technical explainers"},
-    {"id":"explorer_studio_v1","name":"SOL Explorer Studio Pack","price_usd":199,"status":"live","url":"https://klyohojr.github.io/sol-systems-explorer/studio.html","checkout_url":"https://buy.stripe.com/bJe5kD0cLeQ3aJ85zy83C03","best_for":"consultants and studios creating repeated client projects"}
-  ],
-  "custom_services": [
-    {"id":"concept_explorer_pilot","planning_range_usd":[2500,5000]},
-    {"id":"technical_explorer","planning_range_usd":[10000,30000]}
-  ]
-}
+{"schema_version":"1.1","brand":"SOL Systems Explorer","products":[{"id":"explorer_lite_v1","name":"SOL Explorer Lite","price_usd":29,"status":"live","url":"https://klyohojr.github.io/sol-systems-explorer/lite.html","checkout_url":"https://buy.stripe.com/00w8wP5x5bDRcRg7HG83C02","best_for":"simple 2-4 module explainers"},{"id":"starter_kit_v1","name":"SOL Systems Explorer Starter Kit","price_usd":79,"status":"live","url":"https://klyohojr.github.io/sol-systems-explorer/","checkout_url":"https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01","best_for":"general-purpose interactive technical explainers"},{"id":"explorer_studio_v1","name":"SOL Explorer Studio Pack","price_usd":199,"status":"live","url":"https://klyohojr.github.io/sol-systems-explorer/studio.html","checkout_url":"https://buy.stripe.com/bJe5kD0cLeQ3aJ85zy83C03","best_for":"consultants, studios, agencies, repeated client work"}],"services":[{"id":"concept_explorer_pilot","name":"Concept Explorer Pilot","planning_range_usd":[2500,5000],"status":"available_custom"},{"id":"technical_explorer","name":"Technical System Explorer","planning_range_usd":[10000,30000],"status":"custom_quote"}]}
