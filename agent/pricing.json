@@ -1,9 +1,13 @@
 {
   "currency": "USD",
-  "offers": [
-    {"id":"starter-kit-v1","name":"SOL Systems Explorer Starter Kit","price":79,"billing":"one_time","status":"live","checkout_url":"https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01"},
-    {"id":"concept-pilot","name":"Concept Explorer Pilot","planning_range":{"min":2500,"max":5000},"status":"available"},
-    {"id":"technical-explorer","name":"Technical System Explorer","planning_range":{"min":10000,"max":30000},"status":"custom_quote"}
+  "self_serve": [
+    {"id":"explorer_lite_v1","price":29,"billing":"one_time"},
+    {"id":"starter_kit_v1","price":79,"billing":"one_time"},
+    {"id":"explorer_studio_v1","price":199,"billing":"one_time"}
   ],
-  "note": "Custom-service ranges are planning ranges, not binding quotes."
+  "custom": [
+    {"id":"concept_explorer_pilot","planning_range":[2500,5000]},
+    {"id":"technical_explorer","planning_range":[10000,30000]}
+  ],
+  "note": "Self-serve prices are live. Custom-service ranges are planning ranges, not binding quotes."
 }

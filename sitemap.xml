@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://klyohojr.github.io/sol-systems-explorer/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://klyohojr.github.io/sol-systems-explorer/faq.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://klyohojr.github.io/sol-systems-explorer/for-hardware-startups.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://klyohojr.github.io/sol-systems-explorer/for-engineering-consultants.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://klyohojr.github.io/sol-systems-explorer/for-technical-marketers.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://klyohojr.github.io/sol-systems-explorer/agent/product.json</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://klyohojr.github.io/sol-systems-explorer/agent/catalog.json</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://klyohojr.github.io/sol-systems-explorer/agent/merchant.json</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://klyohojr.github.io/sol-systems-explorer/feeds/google-products.csv</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://klyohojr.github.io/sol-systems-explorer/terms.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://klyohojr.github.io/sol-systems-explorer/refund.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://klyohojr.github.io/sol-systems-explorer/privacy.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/</loc></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/lite.html</loc></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/studio.html</loc></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/faq.html</loc></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/for-hardware-startups.html</loc></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/for-engineering-consultants.html</loc></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/for-technical-marketers.html</loc></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/terms.html</loc></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/refund.html</loc></url>
+  <url><loc>https://klyohojr.github.io/sol-systems-explorer/privacy.html</loc></url>
 </urlset>

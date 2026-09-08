@@ -1,33 +1,28 @@
-# SOL Systems Explorer Starter Kit
+# SOL Systems Explorer
 
-SOL Systems Explorer Starter Kit is a live $79 one-time digital product for creating interactive technical system explainers without a build pipeline.
+SOL Systems Explorer sells one-time interactive technical-explainer templates and custom visualization services.
 
-Canonical product page: https://klyohojr.github.io/sol-systems-explorer/
-Live checkout: https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01
-OpenAI-format product feed: https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl
-Google-compatible product feed: https://klyohojr.github.io/sol-systems-explorer/feeds/google-products.csv
+## Live self-serve products
+- SOL Explorer Lite — $29 one-time — simple 2–4 module system explainers — https://klyohojr.github.io/sol-systems-explorer/lite.html
+- SOL Systems Explorer Starter Kit — $79 one-time — up to 6 modules, live JSON editing, themes, mobile viewer, standalone HTML export — https://klyohojr.github.io/sol-systems-explorer/
+- SOL Explorer Studio Pack — $199 one-time — up to 12 modules, three layouts, branding controls, reusable client projects — https://klyohojr.github.io/sol-systems-explorer/studio.html
 
-Best fit: hardware startups, engineering consultants, technical marketers, industrial designers, and technical educators.
+## Live checkout
+- Lite: https://buy.stripe.com/00w8wP5x5bDRcRg7HG83C02
+- Starter: https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01
+- Studio: https://buy.stripe.com/bJe5kD0cLeQ3aJ85zy83C03
 
-Demonstrated features:
-- live JSON system editor
-- browser-based interactive system viewer
-- mobile-friendly navigation
-- visual theme selection
-- single-file HTML export
-- no build tools required
+## Best fit
+Hardware startups, engineering consultants, technical visualization studios, industrial designers, technical marketers, educators, robotics, aerospace, energy, and advanced-manufacturing teams.
 
-Not claimed: CAD, engineering simulation, authoritative digital twin, engineering certification, PLM/MBSE integration, or live telemetry.
+## Limitations
+These products are visualization and technical-communication tools. They are not CAD, engineering simulation, certified digital twins, or safety-critical engineering software.
 
-Policies:
-- https://klyohojr.github.io/sol-systems-explorer/terms.html
-- https://klyohojr.github.io/sol-systems-explorer/refund.html
-- https://klyohojr.github.io/sol-systems-explorer/privacy.html
-
-Machine-readable resources:
-- /agent/product.json
-- /agent/catalog.json
-- /agent/capabilities.json
-- /agent/pricing.json
-- /agent/proof.json
-- /agent/merchant.json
+## Machine-readable endpoints
+/agents.md
+/agent/catalog.json
+/agent/pricing.json
+/agent/capabilities.json
+/agent/proof.json
+/feeds/openai-products.jsonl
+/feeds/google-products.csv
