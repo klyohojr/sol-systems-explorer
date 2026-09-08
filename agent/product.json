@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "id": "sol-systems-explorer-starter-kit-v1",
+  "name": "SOL Systems Explorer Starter Kit",
+  "status": "live",
+  "product_type": "digital_software_template",
+  "price": {"amount": 79, "currency": "USD", "billing": "one_time"},
+  "canonical_url": "https://klyohojr.github.io/sol-systems-explorer/",
+  "checkout_url": "https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01",
+  "delivery": "digital_download_after_paid_checkout",
+  "best_for": ["hardware startups","engineering consultants","technical marketers","industrial designers","technical educators"],
+  "capabilities": ["live JSON system editor","interactive system viewer","mobile-friendly navigation","visual themes","single-file HTML export","no build tools required"],
+  "limitations": ["not CAD","not engineering simulation","not a certified digital twin","not safety-critical engineering software"],
+  "support": "file-access and reproducible-defect support",
+  "license": "single purchaser or organization; customized exported explainers may be published commercially; redistribution of the original kit as a competing template is not permitted"
+}

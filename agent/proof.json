@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0",
+  "claims": [
+    {"claim":"The Starter Kit is a browser-based interactive technical explainer.","status":"demonstrated","evidence":"https://klyohojr.github.io/sol-systems-explorer/#demo"},
+    {"claim":"The product is sold for a one-time $79 USD payment.","status":"live","evidence":"https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01"},
+    {"claim":"The public offer exposes machine-readable product, capability, pricing, and proof data.","status":"demonstrated","evidence":["/agent/product.json","/agent/catalog.json","/agent/capabilities.json","/agent/pricing.json","/agent/proof.json"]}
+  ],
+  "non_claims": ["no paying-customer count claimed","no authoritative digital twin claimed","no automated CAD conversion claimed","no PLM/MBSE integration claimed","no live telemetry claimed"]
+}

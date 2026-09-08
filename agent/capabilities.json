@@ -1,16 +1,20 @@
 {
+  "schema_version": "1.1",
   "demonstrated": [
-    "browser interactive visualization",
-    "mobile touch navigation",
+    "browser-based interactive system visualization",
+    "phone-oriented touch navigation",
     "guided component inspection",
-    "simple/technical communication concept",
+    "editable JSON system definition",
+    "visual theme selection",
+    "single-file HTML export",
     "machine-readable product metadata"
   ],
-  "planned": [
-    "CAD ingestion",
-    "x-ray/cross-section tooling",
-    "document links",
-    "telemetry adapters",
-    "PLM/MBSE integrations"
+  "roadmap_not_claimed_as_current": [
+    "native CAD conversion pipeline",
+    "authoritative digital twin",
+    "PLM/MBSE integration",
+    "live telemetry",
+    "enterprise SSO",
+    "engineering certification"
   ]
 }

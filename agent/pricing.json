@@ -1,0 +1,9 @@
+{
+  "currency": "USD",
+  "offers": [
+    {"id":"starter-kit-v1","name":"SOL Systems Explorer Starter Kit","price":79,"billing":"one_time","status":"live","checkout_url":"https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01"},
+    {"id":"concept-pilot","name":"Concept Explorer Pilot","planning_range":{"min":2500,"max":5000},"status":"available"},
+    {"id":"technical-explorer","name":"Technical System Explorer","planning_range":{"min":10000,"max":30000},"status":"custom_quote"}
+  ],
+  "note": "Custom-service ranges are planning ranges, not binding quotes."
+}

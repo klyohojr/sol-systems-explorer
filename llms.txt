@@ -1,8 +1,25 @@
-# SOL Systems Explorer
-Interactive technical visualization for complex hardware.
-Current self-serve product: Explorer Starter Kit, planned public price $79, checkout activation pending.
-Current custom pilot: $2,500-$5,000 planning range.
-Technical explorer: $10,000-$30,000 planning range.
-Demonstrated: browser visualization, mobile navigation, guided subsystem inspection, agent-readable offer metadata.
-Not claimed: customer deployments, authoritative digital twin, automated CAD conversion, PLM/MBSE integration, live telemetry.
-Machine-readable: /agent/catalog.json and /agent/capabilities.json
+# SOL Systems Explorer Starter Kit
+
+SOL Systems Explorer Starter Kit is a live $79 one-time digital product for creating interactive technical system explainers without a build pipeline.
+
+Canonical product page: https://klyohojr.github.io/sol-systems-explorer/
+Live checkout: https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01
+
+Best fit: hardware startups, engineering consultants, technical marketers, industrial designers, and technical educators.
+
+Demonstrated features:
+- live JSON system editor
+- browser-based interactive system viewer
+- mobile-friendly navigation
+- visual theme selection
+- single-file HTML export
+- no build tools required
+
+Not claimed: CAD, engineering simulation, authoritative digital twin, engineering certification, PLM/MBSE integration, or live telemetry.
+
+Machine-readable resources:
+- /agent/product.json
+- /agent/catalog.json
+- /agent/capabilities.json
+- /agent/pricing.json
+- /agent/proof.json

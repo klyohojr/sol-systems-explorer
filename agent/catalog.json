@@ -1,38 +1,19 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "brand": "SOL Systems Explorer",
-  "commercial_status": "pilot",
-  "self_serve": [
-    {
-      "id": "starter-kit-v1",
-      "name": "Explorer Starter Kit",
-      "price_usd": 79,
-      "status": "built_checkout_pending"
-    }
-  ],
+  "commercial_status": "live",
+  "canonical_product_url": "https://klyohojr.github.io/sol-systems-explorer/",
+  "self_serve": [{
+    "id": "starter-kit-v1",
+    "name": "SOL Systems Explorer Starter Kit",
+    "price_usd": 79,
+    "status": "live",
+    "checkout_url": "https://buy.stripe.com/5kQbJ1f7F37l3gGbXW83C01",
+    "delivery": "digital_download"
+  }],
   "services": [
-    {
-      "id": "concept-pilot",
-      "price_usd": {
-        "min": 2500,
-        "max": 5000
-      },
-      "status": "available"
-    },
-    {
-      "id": "technical-explorer",
-      "price_usd": {
-        "min": 10000,
-        "max": 30000
-      },
-      "status": "custom_quote"
-    }
+    {"id":"concept-pilot","price_usd":{"min":2500,"max":5000},"status":"available"},
+    {"id":"technical-explorer","price_usd":{"min":10000,"max":30000},"status":"custom_quote"}
   ],
-  "not_claimed": [
-    "customer deployments",
-    "authoritative digital twin",
-    "automated CAD conversion",
-    "PLM/MBSE integration",
-    "live telemetry"
-  ]
+  "not_claimed": ["customer deployments","authoritative digital twin","automated CAD conversion","PLM/MBSE integration","live telemetry"]
 }
