@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "brand": "SOL Systems Explorer",
+  "commercial_status": "pilot",
+  "self_serve": [
+    {
+      "id": "starter-kit-v1",
+      "name": "Explorer Starter Kit",
+      "price_usd": 79,
+      "status": "built_checkout_pending"
+    }
+  ],
+  "services": [
+    {
+      "id": "concept-pilot",
+      "price_usd": {
+        "min": 2500,
+        "max": 5000
+      },
+      "status": "available"
+    },
+    {
+      "id": "technical-explorer",
+      "price_usd": {
+        "min": 10000,
+        "max": 30000
+      },
+      "status": "custom_quote"
+    }
+  ],
+  "not_claimed": [
+    "customer deployments",
+    "authoritative digital twin",
+    "automated CAD conversion",
+    "PLM/MBSE integration",
+    "live telemetry"
+  ]
+}

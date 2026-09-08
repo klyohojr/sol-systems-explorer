@@ -1,0 +1,8 @@
+# SOL Systems Explorer
+Interactive technical visualization for complex hardware.
+Current self-serve product: Explorer Starter Kit, planned public price $79, checkout activation pending.
+Current custom pilot: $2,500-$5,000 planning range.
+Technical explorer: $10,000-$30,000 planning range.
+Demonstrated: browser visualization, mobile navigation, guided subsystem inspection, agent-readable offer metadata.
+Not claimed: customer deployments, authoritative digital twin, automated CAD conversion, PLM/MBSE integration, live telemetry.
+Machine-readable: /agent/catalog.json and /agent/capabilities.json

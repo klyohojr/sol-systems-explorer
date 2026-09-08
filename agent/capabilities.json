@@ -1,0 +1,16 @@
+{
+  "demonstrated": [
+    "browser interactive visualization",
+    "mobile touch navigation",
+    "guided component inspection",
+    "simple/technical communication concept",
+    "machine-readable product metadata"
+  ],
+  "planned": [
+    "CAD ingestion",
+    "x-ray/cross-section tooling",
+    "document links",
+    "telemetry adapters",
+    "PLM/MBSE integrations"
+  ]
+}
