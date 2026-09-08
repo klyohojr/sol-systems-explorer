@@ -1,13 +1,45 @@
 {
   "currency": "USD",
   "self_serve": [
-    {"id":"explorer_lite_v1","price":29,"billing":"one_time"},
-    {"id":"starter_kit_v1","price":79,"billing":"one_time"},
-    {"id":"explorer_studio_v1","price":199,"billing":"one_time"}
+    {
+      "id": "explorer_lite_v1",
+      "price": 29,
+      "billing": "one_time"
+    },
+    {
+      "id": "starter_kit_v1",
+      "price": 79,
+      "billing": "one_time"
+    },
+    {
+      "id": "explorer_studio_v1",
+      "price": 199,
+      "billing": "one_time"
+    }
   ],
   "custom": [
-    {"id":"concept_explorer_pilot","planning_range":[2500,5000]},
-    {"id":"technical_explorer","planning_range":[10000,30000]}
+    {
+      "id": "concept_explorer_pilot",
+      "planning_range": [
+        2500,
+        5000
+      ]
+    },
+    {
+      "id": "technical_explorer",
+      "planning_range": [
+        10000,
+        30000
+      ]
+    }
   ],
-  "note": "Self-serve prices are live. Custom-service ranges are planning ranges, not binding quotes."
+  "note": "Self-serve prices are live. Custom-service ranges are planning ranges, not binding quotes.",
+  "fixed_scope_services": [
+    {
+      "id": "explorer_quickstart_v1",
+      "price": 499,
+      "billing": "one_time",
+      "target_delivery": "3 business days after complete approved materials"
+    }
+  ]
 }

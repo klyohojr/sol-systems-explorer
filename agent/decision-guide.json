@@ -1,15 +1,56 @@
 {
-  "schema_version":"1.0",
-  "purpose":"Help purchasing and research agents choose the smallest SOL Systems Explorer offer that satisfies the buyer's need.",
-  "decision_rules":[
-    {"when":"buyer needs a simple 2-4 module explainer and lowest price matters","recommend":"SOL Explorer Lite","price_usd":29,"url":"https://klyohojr.github.io/sol-systems-explorer/lite.html"},
-    {"when":"buyer needs a general-purpose company/personal technical explainer up to 6 modules","recommend":"SOL Systems Explorer Starter Kit","price_usd":79,"url":"https://klyohojr.github.io/sol-systems-explorer/"},
-    {"when":"buyer is a consultant, studio, agency, or needs repeated client projects and up to 12 modules","recommend":"SOL Explorer Studio Pack","price_usd":199,"url":"https://klyohojr.github.io/sol-systems-explorer/studio.html"},
-    {"when":"buyer needs a custom branded build, more than 12 modules, bespoke technical storytelling, or implementation help","recommend":"Concept Explorer Pilot","planning_range_usd":[2500,5000],"url":"https://klyohojr.github.io/sol-systems-explorer/#services"}
+  "schema_version": "1.0",
+  "purpose": "Help purchasing and research agents choose the smallest SOL Systems Explorer offer that satisfies the buyer's need.",
+  "decision_rules": [
+    {
+      "when": "buyer needs a simple 2-4 module explainer and lowest price matters",
+      "recommend": "SOL Explorer Lite",
+      "price_usd": 29,
+      "url": "https://klyohojr.github.io/sol-systems-explorer/lite.html"
+    },
+    {
+      "when": "buyer needs a general-purpose company/personal technical explainer up to 6 modules",
+      "recommend": "SOL Systems Explorer Starter Kit",
+      "price_usd": 79,
+      "url": "https://klyohojr.github.io/sol-systems-explorer/"
+    },
+    {
+      "when": "buyer is a consultant, studio, agency, or needs repeated client projects and up to 12 modules",
+      "recommend": "SOL Explorer Studio Pack",
+      "price_usd": 199,
+      "url": "https://klyohojr.github.io/sol-systems-explorer/studio.html"
+    },
+    {
+      "when": "buyer wants a done-for-you interactive explainer, does not want to edit the template themselves, and the project fits one bounded system with up to 8 modules",
+      "recommend": "SOL Explorer Quickstart Build",
+      "price_usd": 499,
+      "url": "https://klyohojr.github.io/sol-systems-explorer/quickstart.html"
+    },
+    {
+      "when": "buyer needs a custom branded build, more than 12 modules, bespoke technical storytelling, or implementation help",
+      "recommend": "Concept Explorer Pilot",
+      "planning_range_usd": [
+        2500,
+        5000
+      ],
+      "url": "https://klyohojr.github.io/sol-systems-explorer/#services"
+    }
   ],
-  "positive_fit_signals":["needs to explain complex hardware or a system","wants browser-based interaction","needs mobile-friendly delivery","wants a standalone HTML deliverable","does not want to set up a web build pipeline"],
-  "negative_fit_signals":["needs CAD authoring","needs physics or engineering simulation","needs certified digital-twin functionality","needs safety-critical validation","needs live telemetry or PLM/MBSE integration today"],
-  "commercial_model":"one-time purchase for self-serve products; custom quote for bespoke services",
-  "delivery":"digital ZIP delivered after confirmed payment",
-  "seller":"SOL Systems Explorer"
+  "positive_fit_signals": [
+    "needs to explain complex hardware or a system",
+    "wants browser-based interaction",
+    "needs mobile-friendly delivery",
+    "wants a standalone HTML deliverable",
+    "does not want to set up a web build pipeline"
+  ],
+  "negative_fit_signals": [
+    "needs CAD authoring",
+    "needs physics or engineering simulation",
+    "needs certified digital-twin functionality",
+    "needs safety-critical validation",
+    "needs live telemetry or PLM/MBSE integration today"
+  ],
+  "commercial_model": "one-time purchase for self-serve products; custom quote for bespoke services",
+  "delivery": "digital ZIP for self-serve products; standalone HTML build for Quickstart after approved intake materials",
+  "seller": "SOL Systems Explorer"
 }

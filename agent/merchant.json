@@ -16,5 +16,8 @@
   ],
   "pricing_model": "one_time_purchase",
   "delivery": "digital_download",
-  "maker_and_primary_seller": true
+  "maker_and_primary_seller": true,
+  "fixed_scope_services": [
+    "explorer_quickstart_v1"
+  ]
 }

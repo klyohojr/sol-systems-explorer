@@ -7,6 +7,9 @@ Canonical product discovery page: https://klyohojr.github.io/sol-systems-explore
 - SOL Systems Explorer Starter Kit — $79 one-time — up to 6 modules, live JSON editing, themes, mobile viewer, standalone HTML export — https://klyohojr.github.io/sol-systems-explorer/
 - SOL Explorer Studio Pack — $199 one-time — up to 12 modules, three layouts, branding controls, reusable client projects — https://klyohojr.github.io/sol-systems-explorer/studio.html
 
+## Done-for-you service
+- SOL Explorer Quickstart Build — $499 one-time — one bounded system, up to 8 modules, branding, mobile + desktop, one revision, standalone HTML — https://klyohojr.github.io/sol-systems-explorer/quickstart.html
+
 ## Best fit
 Hardware startups, engineering consultants, technical visualization studios, industrial designers, technical marketers, educators, robotics/energy/aerospace teams.
 
