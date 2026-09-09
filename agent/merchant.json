@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.1",
+  "schema_version": "1.2",
   "merchant_name": "SOL Systems Explorer",
   "canonical_url": "https://klyohojr.github.io/sol-systems-explorer/",
   "product_feed_openai": "https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl",
@@ -11,8 +11,8 @@
   "refund_url": "https://klyohojr.github.io/sol-systems-explorer/refund.html",
   "products": [
     "SOL-EXPLORER-LITE-V1",
-    "SOL-EXPLORER-STARTER-V1",
-    "SOL-EXPLORER-STUDIO-V1"
+    "SOL-EXPLORER-STARTER-V2",
+    "SOL-EXPLORER-STUDIO-V2"
   ],
   "pricing_model": "one_time_purchase",
   "delivery": "digital_download",
@@ -20,5 +20,13 @@
   "fixed_scope_services": [
     "explorer_quickstart_v1"
   ],
-  "purchase_manifest": "https://klyohojr.github.io/sol-systems-explorer/agent/purchase.json"
+  "purchase_manifest": "https://klyohojr.github.io/sol-systems-explorer/agent/purchase.json",
+  "seller_type": "maker_and_primary_seller",
+  "market": "US",
+  "audience_scope": "direct-to-consumer and business",
+  "product_category": "Software > Computer Software > Multimedia & Design Software > Web Design Software",
+  "buyer_intents": "https://klyohojr.github.io/sol-systems-explorer/agent/buyer-intents.json",
+  "ai_shopping_guide": "https://klyohojr.github.io/sol-systems-explorer/ai-shopping.html",
+  "product_feed_openai_gzip": "https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl.gz",
+  "last_verified": "2026-09-09"
 }

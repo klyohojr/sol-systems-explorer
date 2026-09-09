@@ -26,6 +26,8 @@ Product facts: https://klyohojr.github.io/sol-systems-explorer/agent/product.jso
 Capabilities: https://klyohojr.github.io/sol-systems-explorer/agent/capabilities.json
 Proof: https://klyohojr.github.io/sol-systems-explorer/agent/proof.json
 OpenAI-format feed: https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl
+Compressed feed snapshot: https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl.gz
+Feed manifest: https://klyohojr.github.io/sol-systems-explorer/feeds/feed-manifest.json
 Google-compatible feed: https://klyohojr.github.io/sol-systems-explorer/feeds/google-products.csv
 AI shopping guide: https://klyohojr.github.io/sol-systems-explorer/ai-shopping.html
 Comparison: https://klyohojr.github.io/sol-systems-explorer/compare.html

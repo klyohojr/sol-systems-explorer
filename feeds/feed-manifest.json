@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "merchant": "SOL Systems Explorer",
+  "snapshot_type": "full",
+  "format": "jsonl.gz",
+  "record_count": 3,
+  "source_url": "https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl",
+  "compressed_url": "https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl.gz",
+  "sha256_uncompressed": "14257ca9fa879e053c47f27f08bf82380852618722d856c2cf217334ea73cb99",
+  "last_verified": "2026-09-09",
+  "contents": [
+    "SOL Explorer Lite",
+    "SOL Systems Explorer Starter Kit v2",
+    "SOL Explorer Studio Pack v2"
+  ],
+  "note": "Public readiness artifact. OpenAI direct-feed production delivery requires approved merchant access and the delivery method specified by OpenAI."
+}
