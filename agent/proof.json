@@ -7,6 +7,11 @@
       "evidence": "https://klyohojr.github.io/sol-systems-explorer/#demo"
     },
     {
+      "claim": "A prospect-specific public-story concept can be reviewed before purchasing a done-for-you build.",
+      "status": "demonstrated",
+      "evidence": "https://klyohojr.github.io/sol-systems-explorer/samples/jaipur-robotics.html"
+    },
+    {
       "claim": "Lite is sold for a one-time $29 USD payment.",
       "status": "live",
       "evidence": "https://klyohojr.github.io/sol-systems-explorer/lite.html"

@@ -52,5 +52,11 @@
   ],
   "commercial_model": "one-time purchase for self-serve products; custom quote for bespoke services",
   "delivery": "digital ZIP for self-serve products; standalone HTML build for Quickstart after approved intake materials",
-  "seller": "SOL Systems Explorer"
+  "seller": "SOL Systems Explorer",
+  "try_before_purchase": {
+    "offer": "Free public-story concept",
+    "price_usd": 0,
+    "url": "https://klyohojr.github.io/sol-systems-explorer/free-concept.html",
+    "best_for": "qualified hardware/industrial teams that want to see a public-information communication concept before buying; no confidential data"
+  }
 }
