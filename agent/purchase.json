@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "seller": "SOL Systems Explorer",
+  "currency": "USD",
+  "purchase_model": "one_time",
+  "offers": [
+    {"id":"explorer_lite_v1","name":"SOL Explorer Lite","price_usd":29,"checkout_url":"https://buy.stripe.com/3cI7sLaRpbDRcRgfa883C04","fulfillment":"automatic digital ZIP by email after confirmed live payment","best_for":"simple 2-4 module one-off explainer"},
+    {"id":"starter_kit_v1","name":"SOL Systems Explorer Starter Kit","price_usd":79,"checkout_url":"https://buy.stripe.com/dRmdR92kTdLZbNce6483C06","fulfillment":"automatic digital ZIP by email after confirmed live payment","best_for":"general-purpose explainer up to 6 modules"},
+    {"id":"explorer_studio_v1","name":"SOL Explorer Studio Pack","price_usd":199,"checkout_url":"https://buy.stripe.com/6oU8wP0cLgYb04u7HG83C08","fulfillment":"automatic digital ZIP by email after confirmed live payment","best_for":"consultants, studios, agencies, repeated client work up to 12 modules"},
+    {"id":"explorer_quickstart_v1","name":"SOL Explorer Quickstart Build","price_usd":499,"checkout_url":"https://book.stripe.com/8x200jcZxeQ36sSe6483C0b","fulfillment":"done-for-you standalone HTML build after approved intake materials","best_for":"buyer wants one bounded interactive explainer built for them instead of editing a template","scope":"one system, up to 8 modules, customer branding, mobile + desktop, one revision","target_delivery":"3 business days after complete approved materials"}
+  ],
+  "checkout_provider": "Stripe",
+  "buyer_email_required_for_fulfillment": true,
+  "terms_url": "https://klyohojr.github.io/sol-systems-explorer/terms.html",
+  "refund_url": "https://klyohojr.github.io/sol-systems-explorer/refund.html",
+  "privacy_url": "https://klyohojr.github.io/sol-systems-explorer/privacy.html",
+  "limitations": ["not CAD authoring","not engineering simulation","not a certified digital twin","not safety-critical engineering validation"],
+  "note": "Checkout URLs in this manifest are tagged for agent-channel attribution. Availability and price should be rechecked at purchase time."
+}

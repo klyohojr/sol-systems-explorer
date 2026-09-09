@@ -19,5 +19,6 @@
   "maker_and_primary_seller": true,
   "fixed_scope_services": [
     "explorer_quickstart_v1"
-  ]
+  ],
+  "purchase_manifest": "https://klyohojr.github.io/sol-systems-explorer/agent/purchase.json"
 }

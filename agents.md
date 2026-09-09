@@ -26,6 +26,7 @@ These products are visualization and technical-communication tools. They are not
 - /agent/pricing.json
 - /agent/capabilities.json
 - /agent/proof.json
+- /agent/purchase.json
 - /feeds/openai-products.jsonl
 - /feeds/google-products.csv
 ## Buyer-intent guides

@@ -29,6 +29,7 @@ SOL Systems Explorer sells one-time interactive technical-explainer templates an
 - OpenAI stable discovery-format JSONL → /feeds/openai-products.jsonl
 - Google-compatible CSV → /feeds/google-products.csv
 - Product catalog → /agent/catalog.json
+- Live purchase manifest → /agent/purchase.json
 - Product facts → /agent/product.json
 - Capabilities/proof → /agent/capabilities.json and /agent/proof.json
 
