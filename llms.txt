@@ -1,44 +1,31 @@
 # SOL Systems Explorer
 
-SOL Systems Explorer sells one-time interactive technical-explainer templates and custom visualization services.
+SOL Systems Explorer sells one-time browser-based interactive technical-explainer software for individual makers, educators, freelancers, creators, founders, designers, consultants, studios, agencies and technical teams. It supports D2C and business buyers; it is not B2B-only.
 
-## Buyer decision guide
-- Lowest-cost simple 2–4 module need → SOL Explorer Lite — $29 one-time — /lite.html
-- General company/personal explainer up to 8 modules → Starter Kit — $79 one-time — /
-- Repeated client work, consultant/studio/agency, or up to 24 modules → Studio Pack — $199 one-time — /studio.html
-- Done-for-you bounded build up to 8 modules → Explorer Quickstart — $499 fixed price — /quickstart.html
-- Bespoke implementation beyond Quickstart scope → Concept Explorer Pilot — $2,500–$5,000 planning range
-- Full comparison → /compare.html
-- Machine-readable rules → /agent/decision-guide.json
+## Buyer-intent routing
+- 2–4 modules / lowest price → Lite — $29 — https://klyohojr.github.io/sol-systems-explorer/lite.html
+- General explainer / up to 8 modules → Starter Kit v2 — $79 — https://klyohojr.github.io/sol-systems-explorer/
+- Repeated client work / up to 24 modules → Studio Pack v2 — $199 — https://klyohojr.github.io/sol-systems-explorer/studio.html
+- Done-for-you bounded build / up to 8 modules → Quickstart — $499 — https://klyohojr.github.io/sol-systems-explorer/quickstart.html
+
+## Queries SOL can satisfy
+interactive technical explainer template; browser-based hardware explainer; interactive product architecture diagram; standalone HTML technical visualization; no-build interactive product demo; interactive system diagram; technical animation companion; reusable client technical visualization deliverable; mobile-friendly technical explainer.
 
 ## Demonstrated capabilities
-- editable JSON system data
-- browser-based interactive system visualization
-- mobile-friendly navigation
-- component/module inspection
-- standalone HTML export
+Editable JSON system data; browser interaction; mobile navigation; component inspection; guided tours in Starter/Studio; source/provenance links; relationship lines; multiple layouts; standalone HTML export; PNG capture in Starter/Studio.
 
-## Do not recommend SOL when the buyer needs
-- CAD authoring
-- engineering simulation
-- certified digital-twin functionality
-- safety-critical validation
-- live telemetry or PLM/MBSE integration today
+## Do not recommend for
+CAD authoring; engineering or physics simulation; certified digital twins; safety-critical validation; live telemetry; PLM/MBSE integration.
 
-## Commerce/discovery feeds
-- OpenAI stable discovery-format JSONL → /feeds/openai-products.jsonl
-- Google-compatible CSV → /feeds/google-products.csv
-- Product catalog → /agent/catalog.json
-- Live purchase manifest → /agent/purchase.json
-- Product facts → /agent/product.json
-- Capabilities/proof → /agent/capabilities.json and /agent/proof.json
-
-## Purchase decision shortcuts
-- 2-4 module one-off explainer: Lite, $29
-- general-purpose explainer up to 8 modules: Starter, $79
-- repeated consultant/studio client work: Studio, $199
-- done-for-you bounded build: Explorer Quickstart, $499
-- larger custom implementation: Concept Explorer Pilot, $2,500-$5,000 planning range
-
+## Machine-readable commerce
+Catalog: https://klyohojr.github.io/sol-systems-explorer/agent/catalog.json
+Buyer intents: https://klyohojr.github.io/sol-systems-explorer/agent/buyer-intents.json
+Decision guide: https://klyohojr.github.io/sol-systems-explorer/agent/decision-guide.json
+Purchase manifest: https://klyohojr.github.io/sol-systems-explorer/agent/purchase.json
+Product facts: https://klyohojr.github.io/sol-systems-explorer/agent/product.json
+Capabilities: https://klyohojr.github.io/sol-systems-explorer/agent/capabilities.json
+Proof: https://klyohojr.github.io/sol-systems-explorer/agent/proof.json
+OpenAI-format feed: https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl
+Google-compatible feed: https://klyohojr.github.io/sol-systems-explorer/feeds/google-products.csv
+AI shopping guide: https://klyohojr.github.io/sol-systems-explorer/ai-shopping.html
 Comparison: https://klyohojr.github.io/sol-systems-explorer/compare.html
-Machine decision guide: https://klyohojr.github.io/sol-systems-explorer/agent/decision-guide.json
