@@ -9,13 +9,13 @@
       "url": "https://klyohojr.github.io/sol-systems-explorer/lite.html"
     },
     {
-      "when": "buyer needs a general-purpose company/personal technical explainer up to 6 modules",
+      "when": "buyer needs a general-purpose company/personal technical explainer up to 8 modules",
       "recommend": "SOL Systems Explorer Starter Kit",
       "price_usd": 79,
       "url": "https://klyohojr.github.io/sol-systems-explorer/"
     },
     {
-      "when": "buyer is a consultant, studio, agency, or needs repeated client projects and up to 12 modules",
+      "when": "buyer is a consultant, studio, agency, or needs repeated client projects and up to 24 modules",
       "recommend": "SOL Explorer Studio Pack",
       "price_usd": 199,
       "url": "https://klyohojr.github.io/sol-systems-explorer/studio.html"
@@ -27,7 +27,7 @@
       "url": "https://klyohojr.github.io/sol-systems-explorer/quickstart.html"
     },
     {
-      "when": "buyer needs a custom branded build, more than 12 modules, bespoke technical storytelling, or implementation help",
+      "when": "buyer needs a custom branded build, more than 24 modules, bespoke technical storytelling, or implementation help",
       "recommend": "Concept Explorer Pilot",
       "planning_range_usd": [
         2500,

@@ -4,8 +4,8 @@ SOL Systems Explorer sells one-time interactive technical-explainer templates an
 
 ## Buyer decision guide
 - Lowest-cost simple 2–4 module need → SOL Explorer Lite — $29 one-time — /lite.html
-- General company/personal explainer up to 6 modules → Starter Kit — $79 one-time — /
-- Repeated client work, consultant/studio/agency, or up to 12 modules → Studio Pack — $199 one-time — /studio.html
+- General company/personal explainer up to 8 modules → Starter Kit — $79 one-time — /
+- Repeated client work, consultant/studio/agency, or up to 24 modules → Studio Pack — $199 one-time — /studio.html
 - Done-for-you bounded build up to 8 modules → Explorer Quickstart — $499 fixed price — /quickstart.html
 - Bespoke implementation beyond Quickstart scope → Concept Explorer Pilot — $2,500–$5,000 planning range
 - Full comparison → /compare.html
@@ -35,7 +35,7 @@ SOL Systems Explorer sells one-time interactive technical-explainer templates an
 
 ## Purchase decision shortcuts
 - 2-4 module one-off explainer: Lite, $29
-- general-purpose explainer up to 6 modules: Starter, $79
+- general-purpose explainer up to 8 modules: Starter, $79
 - repeated consultant/studio client work: Studio, $199
 - done-for-you bounded build: Explorer Quickstart, $499
 - larger custom implementation: Concept Explorer Pilot, $2,500-$5,000 planning range
