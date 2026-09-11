@@ -16,3 +16,11 @@
 
 ## Fulfillment
 Stripe live payment links are monitored by the SOL Product Fulfillment automation. Paid sessions are delivered from private Drive artifacts and deduplicated through Gmail sent-message search.
+## Outreach qualification guardrails
+- Treat an examples request as curiosity, not a qualified buying signal.
+- Research the prospect and choose the closest proof before replying to a request for examples.
+- Prefer one highly analogous example over a pile of generic examples.
+- Do not lead a cold first touch with a checkout link or a long feature inventory; lead with the recipient's workflow/problem and a low-pressure interest CTA.
+- Introduce price/checkout after the prospect reveals a use case, asks about price/purchase, or otherwise establishes real offer interest.
+- A clear decline closes the prospect; do not send further unsolicited follow-ups.
+- Track delivery, reply, curiosity, qualified need, offer, checkout, and paid as distinct funnel stages.
