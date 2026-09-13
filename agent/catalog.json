@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.3",
+  "schema_version": "1.4",
   "brand": "SOL Systems Explorer",
   "market": "US",
   "currency": "USD",
@@ -46,7 +46,13 @@
       },
       "delivery": "digital_download",
       "condition": "new",
-      "currency": "USD"
+      "currency": "USD",
+      "external_url": "https://klyohojr.github.io/sol-systems-explorer/lite.html",
+      "image_url": "https://cdn.shopify.com/s/files/1/0739/6058/7299/files/sol-explorer-lite-v1.png?v=1788910138",
+      "shopify_handle": "sol-explorer-lite",
+      "sku": "SOL-EXPLORER-LITE-V1",
+      "availableForSale": true,
+      "requiresShipping": false
     },
     {
       "id": "starter_kit_v1",
@@ -93,7 +99,13 @@
       },
       "delivery": "digital_download",
       "condition": "new",
-      "currency": "USD"
+      "currency": "USD",
+      "external_url": "https://klyohojr.github.io/sol-systems-explorer/",
+      "image_url": "https://cdn.shopify.com/s/files/1/0739/6058/7299/files/sol-systems-explorer-starter-v1.png?v=1788910146",
+      "shopify_handle": "sol-systems-explorer-starter-kit",
+      "sku": "SOL-EXPLORER-STARTER-V2",
+      "availableForSale": true,
+      "requiresShipping": false
     },
     {
       "id": "explorer_studio_v1",
@@ -140,7 +152,13 @@
       },
       "delivery": "digital_download",
       "condition": "new",
-      "currency": "USD"
+      "currency": "USD",
+      "external_url": "https://klyohojr.github.io/sol-systems-explorer/studio.html",
+      "image_url": "https://cdn.shopify.com/s/files/1/0739/6058/7299/files/sol-explorer-studio-v1.png?v=1788910152",
+      "shopify_handle": "sol-explorer-studio-pack",
+      "sku": "SOL-EXPLORER-STUDIO-V2",
+      "availableForSale": true,
+      "requiresShipping": false
     }
   ],
   "service": {
@@ -158,5 +176,6 @@
     "decision_guide": "https://klyohojr.github.io/sol-systems-explorer/agent/decision-guide.json",
     "purchase": "https://klyohojr.github.io/sol-systems-explorer/agent/purchase.json",
     "proof": "https://klyohojr.github.io/sol-systems-explorer/agent/proof.json"
-  }
+  },
+  "last_verified": "2026-09-13"
 }
