@@ -48,6 +48,11 @@ def validate():
         if not pid: fail(f'Google feed unexpected price {row["price"]}')
         if canonical(row['link']) != c[pid]['url']: fail(f'{pid}: Google product URL drift')
         if row['image_link'] != p[pid]['image_url']: fail(f'{pid}: Google image drift')
+    stale_tokens = ('Starter Kit v1', 'planned Agency License', 'Studio Pack v1')
+    for page in ROOT.glob('*.html'):
+        text = page.read_text()
+        for token in stale_tokens:
+            if token in text: fail(f'{page.name}: stale public product copy: {token}')
     raw=(ROOT/'feeds/openai-products.jsonl').read_bytes(); compressed=(ROOT/'feeds/openai-products.jsonl.gz').read_bytes(); manifest=load('feeds/feed-manifest.json')
     if gzip.decompress(compressed) != raw: fail('compressed feed is not byte-identical to JSONL source')
     if manifest['record_count'] != len(feed): fail('feed manifest record_count drift')

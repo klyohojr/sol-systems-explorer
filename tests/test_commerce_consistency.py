@@ -14,6 +14,16 @@ class CommerceConsistencyTests(unittest.TestCase):
             try:
                 with self.assertRaisesRegex(AssertionError,'agent price drift'): guard.validate()
             finally: guard.ROOT=original
+    def test_stale_public_copy_fails_closed(self):
+        original=guard.ROOT
+        with tempfile.TemporaryDirectory() as td:
+            root=Path(td); shutil.copytree(original/'agent',root/'agent'); shutil.copytree(original/'feeds',root/'feeds')
+            (root/'for-example.html').write_text('<strong>Starter Kit v1</strong>')
+            guard.ROOT=root
+            try:
+                with self.assertRaisesRegex(AssertionError,'stale public product copy'): guard.validate()
+            finally: guard.ROOT=original
+
     def test_feed_hash_drift_fails_closed(self):
         original=guard.ROOT
         with tempfile.TemporaryDirectory() as td:

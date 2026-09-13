@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'agent/**'
+      - '*.html'
       - 'feeds/**'
       - 'scripts/validate_commerce.py'
       - 'tests/test_commerce_consistency.py'
@@ -10,6 +11,7 @@ on:
   pull_request:
     paths:
       - 'agent/**'
+      - '*.html'
       - 'feeds/**'
       - 'scripts/validate_commerce.py'
       - 'tests/test_commerce_consistency.py'
