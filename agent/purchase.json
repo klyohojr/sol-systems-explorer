@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.1",
+  "schema_version": "1.2",
   "seller": "SOL Systems Explorer",
   "currency": "USD",
   "purchase_model": "one_time",
@@ -17,7 +17,10 @@
       "requiresShipping": false,
       "delivery": "digital_download",
       "purchase_model": "one_time",
-      "external_url": "https://klyohojr.github.io/sol-systems-explorer/lite.html"
+      "external_url": "https://klyohojr.github.io/sol-systems-explorer/lite.html",
+      "condition": "new",
+      "is_eligible_search": true,
+      "is_ads_eligible": false
     },
     {
       "id": "starter_kit_v1",
@@ -32,7 +35,10 @@
       "requiresShipping": false,
       "delivery": "digital_download",
       "purchase_model": "one_time",
-      "external_url": "https://klyohojr.github.io/sol-systems-explorer/"
+      "external_url": "https://klyohojr.github.io/sol-systems-explorer/",
+      "condition": "new",
+      "is_eligible_search": true,
+      "is_ads_eligible": false
     },
     {
       "id": "explorer_studio_v1",
@@ -47,7 +53,10 @@
       "requiresShipping": false,
       "delivery": "digital_download",
       "purchase_model": "one_time",
-      "external_url": "https://klyohojr.github.io/sol-systems-explorer/studio.html"
+      "external_url": "https://klyohojr.github.io/sol-systems-explorer/studio.html",
+      "condition": "new",
+      "is_eligible_search": true,
+      "is_ads_eligible": false
     },
     {
       "id": "explorer_quickstart_v1",
