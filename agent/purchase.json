@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "seller": "SOL Systems Explorer",
   "currency": "USD",
   "purchase_model": "one_time",
@@ -10,7 +10,14 @@
       "price_usd": 29,
       "checkout_url": "https://buy.stripe.com/3cI7sLaRpbDRcRgfa883C04",
       "fulfillment": "automatic digital ZIP by email after confirmed live payment",
-      "best_for": "simple 2-4 module one-off explainer"
+      "best_for": "simple 2-4 module one-off explainer",
+      "currency": "USD",
+      "status": "ACTIVE",
+      "availableForSale": true,
+      "requiresShipping": false,
+      "delivery": "digital_download",
+      "purchase_model": "one_time",
+      "external_url": "https://klyohojr.github.io/sol-systems-explorer/lite.html"
     },
     {
       "id": "starter_kit_v1",
@@ -18,7 +25,14 @@
       "price_usd": 79,
       "checkout_url": "https://buy.stripe.com/dRmdR92kTdLZbNce6483C06",
       "fulfillment": "automatic digital ZIP by email after confirmed live payment",
-      "best_for": "general-purpose interactive technical explainer up to 8 modules"
+      "best_for": "general-purpose interactive technical explainer up to 8 modules",
+      "currency": "USD",
+      "status": "ACTIVE",
+      "availableForSale": true,
+      "requiresShipping": false,
+      "delivery": "digital_download",
+      "purchase_model": "one_time",
+      "external_url": "https://klyohojr.github.io/sol-systems-explorer/"
     },
     {
       "id": "explorer_studio_v1",
@@ -26,7 +40,14 @@
       "price_usd": 199,
       "checkout_url": "https://buy.stripe.com/6oU8wP0cLgYb04u7HG83C08",
       "fulfillment": "automatic digital ZIP by email after confirmed live payment",
-      "best_for": "consultants, studios, agencies, repeated client work up to 24 modules"
+      "best_for": "consultants, studios, agencies, repeated client work up to 24 modules",
+      "currency": "USD",
+      "status": "ACTIVE",
+      "availableForSale": true,
+      "requiresShipping": false,
+      "delivery": "digital_download",
+      "purchase_model": "one_time",
+      "external_url": "https://klyohojr.github.io/sol-systems-explorer/studio.html"
     },
     {
       "id": "explorer_quickstart_v1",
