@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.1",
+  "schema_version": "1.2",
   "purpose": "Machine-readable buyer-intent matching for research, recommendation and shopping agents.",
   "seller": "SOL Systems Explorer",
   "market": "US",
@@ -174,7 +174,7 @@
   ],
   "purchase_manifest": "https://klyohojr.github.io/sol-systems-explorer/agent/purchase.json",
   "product_feed": "https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl",
-  "last_verified": "2026-09-11",
+  "last_verified": "2026-09-14",
   "generic_search_terms": [
     "interactive technical explainer",
     "technical diagram template",
@@ -185,7 +185,12 @@
     "technical visualization template",
     "interactive engineering communication tool",
     "no-code technical explainer",
-    "interactive companion to CAD renders"
+    "interactive companion to CAD renders",
+    "interactive product explainer software",
+    "browser based technical diagram template",
+    "no build product demo template",
+    "technical onboarding explainer",
+    "agency technical explainer toolkit"
   ],
   "intent_facets": {
     "format": [

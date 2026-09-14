@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.5",
+  "schema_version": "1.6",
   "brand": "SOL Systems Explorer",
   "market": "US",
   "currency": "USD",
@@ -54,7 +54,14 @@
       "availableForSale": true,
       "requiresShipping": false,
       "shopify_product_id": "gid://shopify/Product/7275145068579",
-      "shopify_variant_id": "gid://shopify/ProductVariant/43871917113379"
+      "shopify_variant_id": "gid://shopify/ProductVariant/43871917113379",
+      "buyer_search_terms": [
+        "interactive technical explainer template",
+        "small product explainer template",
+        "browser based technical diagram template",
+        "interactive hardware explainer",
+        "standalone HTML product explainer"
+      ]
     },
     {
       "id": "starter_kit_v1",
@@ -109,7 +116,15 @@
       "availableForSale": true,
       "requiresShipping": false,
       "shopify_product_id": "gid://shopify/Product/7275139956771",
-      "shopify_variant_id": "gid://shopify/ProductVariant/43871901319203"
+      "shopify_variant_id": "gid://shopify/ProductVariant/43871901319203",
+      "buyer_search_terms": [
+        "interactive technical explainer software",
+        "interactive product architecture diagram",
+        "browser based system architecture visualization",
+        "no build product demo template",
+        "technical onboarding explainer",
+        "standalone HTML technical explainer"
+      ]
     },
     {
       "id": "explorer_studio_v1",
@@ -164,7 +179,15 @@
       "availableForSale": true,
       "requiresShipping": false,
       "shopify_product_id": "gid://shopify/Product/7275145101347",
-      "shopify_variant_id": "gid://shopify/ProductVariant/43871917146147"
+      "shopify_variant_id": "gid://shopify/ProductVariant/43871917146147",
+      "buyer_search_terms": [
+        "technical visualization toolkit",
+        "interactive technical client deliverable",
+        "reusable product architecture explainer",
+        "interactive companion to CAD renders",
+        "interactive companion to technical animation",
+        "agency technical explainer toolkit"
+      ]
     }
   ],
   "service": {
@@ -183,5 +206,5 @@
     "purchase": "https://klyohojr.github.io/sol-systems-explorer/agent/purchase.json",
     "proof": "https://klyohojr.github.io/sol-systems-explorer/agent/proof.json"
   },
-  "last_verified": "2026-09-13"
+  "last_verified": "2026-09-14"
 }
