@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "seller": "SOL Systems Explorer",
   "currency": "USD",
   "purchase_model": "one_time",
@@ -20,7 +20,9 @@
       "external_url": "https://klyohojr.github.io/sol-systems-explorer/lite.html",
       "condition": "new",
       "is_eligible_search": true,
-      "is_ads_eligible": false
+      "is_ads_eligible": false,
+      "shopify_product_id": "gid://shopify/Product/7275145068579",
+      "shopify_variant_id": "gid://shopify/ProductVariant/43871917113379"
     },
     {
       "id": "starter_kit_v1",
@@ -38,7 +40,9 @@
       "external_url": "https://klyohojr.github.io/sol-systems-explorer/",
       "condition": "new",
       "is_eligible_search": true,
-      "is_ads_eligible": false
+      "is_ads_eligible": false,
+      "shopify_product_id": "gid://shopify/Product/7275139956771",
+      "shopify_variant_id": "gid://shopify/ProductVariant/43871901319203"
     },
     {
       "id": "explorer_studio_v1",
@@ -56,7 +60,9 @@
       "external_url": "https://klyohojr.github.io/sol-systems-explorer/studio.html",
       "condition": "new",
       "is_eligible_search": true,
-      "is_ads_eligible": false
+      "is_ads_eligible": false,
+      "shopify_product_id": "gid://shopify/Product/7275145101347",
+      "shopify_variant_id": "gid://shopify/ProductVariant/43871917146147"
     },
     {
       "id": "explorer_quickstart_v1",
