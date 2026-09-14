@@ -1,24 +1,36 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "purpose": "Help purchasing and research agents choose the smallest SOL Systems Explorer offer that satisfies the buyer's need.",
   "decision_rules": [
     {
       "when": "buyer needs a simple 2-4 module explainer and lowest price matters",
       "recommend": "SOL Explorer Lite",
       "price_usd": 29,
-      "url": "https://klyohojr.github.io/sol-systems-explorer/lite.html"
+      "url": "https://klyohojr.github.io/sol-systems-explorer/lite.html",
+      "product_id": "explorer_lite_v1",
+      "availability": "in_stock",
+      "purchase_model": "one_time",
+      "checkout_url": "https://buy.stripe.com/3cI7sLaRpbDRcRgfa883C04"
     },
     {
       "when": "buyer needs a general-purpose company/personal technical explainer up to 8 modules",
       "recommend": "SOL Systems Explorer Starter Kit",
       "price_usd": 79,
-      "url": "https://klyohojr.github.io/sol-systems-explorer/"
+      "url": "https://klyohojr.github.io/sol-systems-explorer/",
+      "product_id": "starter_kit_v1",
+      "availability": "in_stock",
+      "purchase_model": "one_time",
+      "checkout_url": "https://buy.stripe.com/dRmdR92kTdLZbNce6483C06"
     },
     {
       "when": "buyer is a consultant, studio, agency, or needs repeated client projects and up to 24 modules",
       "recommend": "SOL Explorer Studio Pack",
       "price_usd": 199,
-      "url": "https://klyohojr.github.io/sol-systems-explorer/studio.html"
+      "url": "https://klyohojr.github.io/sol-systems-explorer/studio.html",
+      "product_id": "explorer_studio_v1",
+      "availability": "in_stock",
+      "purchase_model": "one_time",
+      "checkout_url": "https://buy.stripe.com/6oU8wP0cLgYb04u7HG83C08"
     },
     {
       "when": "buyer wants a done-for-you interactive explainer, does not want to edit the template themselves, and the project fits one bounded system with up to 8 modules",
