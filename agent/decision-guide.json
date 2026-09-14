@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.1",
+  "schema_version": "1.2",
   "purpose": "Help purchasing and research agents choose the smallest SOL Systems Explorer offer that satisfies the buyer's need.",
   "decision_rules": [
     {
@@ -10,7 +10,9 @@
       "product_id": "explorer_lite_v1",
       "availability": "in_stock",
       "purchase_model": "one_time",
-      "checkout_url": "https://buy.stripe.com/3cI7sLaRpbDRcRgfa883C04"
+      "checkout_url": "https://buy.stripe.com/3cI7sLaRpbDRcRgfa883C04",
+      "shopify_product_id": "gid://shopify/Product/7275145068579",
+      "shopify_variant_id": "gid://shopify/ProductVariant/43871917113379"
     },
     {
       "when": "buyer needs a general-purpose company/personal technical explainer up to 8 modules",
@@ -20,7 +22,9 @@
       "product_id": "starter_kit_v1",
       "availability": "in_stock",
       "purchase_model": "one_time",
-      "checkout_url": "https://buy.stripe.com/dRmdR92kTdLZbNce6483C06"
+      "checkout_url": "https://buy.stripe.com/dRmdR92kTdLZbNce6483C06",
+      "shopify_product_id": "gid://shopify/Product/7275139956771",
+      "shopify_variant_id": "gid://shopify/ProductVariant/43871901319203"
     },
     {
       "when": "buyer is a consultant, studio, agency, or needs repeated client projects and up to 24 modules",
@@ -30,7 +34,9 @@
       "product_id": "explorer_studio_v1",
       "availability": "in_stock",
       "purchase_model": "one_time",
-      "checkout_url": "https://buy.stripe.com/6oU8wP0cLgYb04u7HG83C08"
+      "checkout_url": "https://buy.stripe.com/6oU8wP0cLgYb04u7HG83C08",
+      "shopify_product_id": "gid://shopify/Product/7275145101347",
+      "shopify_variant_id": "gid://shopify/ProductVariant/43871917146147"
     },
     {
       "when": "buyer wants a done-for-you interactive explainer, does not want to edit the template themselves, and the project fits one bounded system with up to 8 modules",
