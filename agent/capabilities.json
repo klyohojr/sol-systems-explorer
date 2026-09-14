@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.1",
+  "schema_version": "1.2",
   "demonstrated": [
     "browser-based interactive system visualization",
     "phone-oriented touch navigation",
@@ -16,5 +16,22 @@
     "live telemetry",
     "enterprise SSO",
     "engineering certification"
-  ]
+  ],
+  "ucp": {
+    "version": "2026-08-25",
+    "services": {},
+    "capabilities": {
+      "dev.ucp.shopping.catalog.search": [
+        {
+          "version": "2026-08-25"
+        }
+      ],
+      "dev.ucp.shopping.catalog.lookup": [
+        {
+          "version": "2026-08-25"
+        }
+      ]
+    },
+    "payment_handlers": {}
+  }
 }
