@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.4",
+  "schema_version": "1.5",
   "brand": "SOL Systems Explorer",
   "market": "US",
   "currency": "USD",
@@ -52,7 +52,9 @@
       "shopify_handle": "sol-explorer-lite",
       "sku": "SOL-EXPLORER-LITE-V1",
       "availableForSale": true,
-      "requiresShipping": false
+      "requiresShipping": false,
+      "shopify_product_id": "gid://shopify/Product/7275145068579",
+      "shopify_variant_id": "gid://shopify/ProductVariant/43871917113379"
     },
     {
       "id": "starter_kit_v1",
@@ -105,7 +107,9 @@
       "shopify_handle": "sol-systems-explorer-starter-kit",
       "sku": "SOL-EXPLORER-STARTER-V2",
       "availableForSale": true,
-      "requiresShipping": false
+      "requiresShipping": false,
+      "shopify_product_id": "gid://shopify/Product/7275139956771",
+      "shopify_variant_id": "gid://shopify/ProductVariant/43871901319203"
     },
     {
       "id": "explorer_studio_v1",
@@ -158,7 +162,9 @@
       "shopify_handle": "sol-explorer-studio-pack",
       "sku": "SOL-EXPLORER-STUDIO-V2",
       "availableForSale": true,
-      "requiresShipping": false
+      "requiresShipping": false,
+      "shopify_product_id": "gid://shopify/Product/7275145101347",
+      "shopify_variant_id": "gid://shopify/ProductVariant/43871917146147"
     }
   ],
   "service": {
