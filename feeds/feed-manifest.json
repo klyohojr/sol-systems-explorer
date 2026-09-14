@@ -6,8 +6,8 @@
   "record_count": 3,
   "source_url": "https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl",
   "compressed_url": "https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl.gz",
-  "sha256_uncompressed": "6d2d8714b74f4d49ccc49887bf75dfffd4273abd332a4b30d2cd8653e00aceb9",
-  "last_verified": "2026-09-13",
+  "sha256_uncompressed": "aa8ab249ca957cb18bc73ad9d97f39d8ccc6bfc9ed6bd9f5115ce99df5f98a0f",
+  "last_verified": "2026-09-14",
   "contents": [
     "SOL Explorer Lite",
     "SOL Systems Explorer Starter Kit v2",
