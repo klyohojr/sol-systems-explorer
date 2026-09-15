@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.3",
+  "schema_version": "1.4",
   "merchant_name": "SOL Systems Explorer",
   "canonical_url": "https://klyohojr.github.io/sol-systems-explorer/",
   "product_feed_openai": "https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl",
@@ -50,6 +50,19 @@
       "search": true,
       "ads": false
     },
-    "pre_purchase_instruction": "Re-check current price and availability in the purchase manifest and, when Shopify catalog resolution is available, resolve the listed Shopify variant identifier before checkout."
+    "pre_purchase_instruction": "Re-check current price and availability in the purchase manifest and, when Shopify catalog resolution is available, resolve the listed Shopify variant identifier before checkout.",
+    "shopify_catalog_resolution": {
+      "global_catalog_mcp": "https://catalog.shopify.com/api/ucp/mcp",
+      "protocol": "UCP",
+      "version": "2026-08-25",
+      "lookup_tool": "lookup_catalog",
+      "availability_default": true,
+      "purpose": "Resolve listed Shopify variant IDs against current sale-ready catalog data immediately before checkout.",
+      "variants": {
+        "SOL-EXPLORER-LITE-V1": "gid://shopify/ProductVariant/43871917113379",
+        "SOL-EXPLORER-STARTER-V2": "gid://shopify/ProductVariant/43871901319203",
+        "SOL-EXPLORER-STUDIO-V2": "gid://shopify/ProductVariant/43871917146147"
+      }
+    }
   }
 }
