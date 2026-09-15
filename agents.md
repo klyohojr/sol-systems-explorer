@@ -35,3 +35,7 @@ Proof: https://klyohojr.github.io/sol-systems-explorer/agent/proof.json
 Terms: https://klyohojr.github.io/sol-systems-explorer/terms.html
 Refunds: https://klyohojr.github.io/sol-systems-explorer/refund.html
 Privacy: https://klyohojr.github.io/sol-systems-explorer/privacy.html
+
+
+## UCP buyer-agent profile
+- UCP buyer-agent profile: https://klyohojr.github.io/sol-systems-explorer/.well-known/ucp-agent.json
