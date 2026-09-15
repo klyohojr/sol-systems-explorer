@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "merchant_name": "SOL Systems Explorer",
   "canonical_url": "https://klyohojr.github.io/sol-systems-explorer/",
   "product_feed_openai": "https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl",
@@ -28,5 +28,28 @@
   "buyer_intents": "https://klyohojr.github.io/sol-systems-explorer/agent/buyer-intents.json",
   "ai_shopping_guide": "https://klyohojr.github.io/sol-systems-explorer/ai-shopping.html",
   "product_feed_openai_gzip": "https://klyohojr.github.io/sol-systems-explorer/feeds/openai-products.jsonl.gz",
-  "last_verified": "2026-09-09"
+  "last_verified": "2026-09-15",
+  "agentic_commerce": {
+    "protocols": [
+      "UCP 2026-08-25",
+      "MCP"
+    ],
+    "merchant_of_record": "SOL Systems Explorer",
+    "currency": "USD",
+    "purchase_model": "one_time_purchase",
+    "delivery": "digital_download",
+    "requires_shipping": false,
+    "checkout_provider": "Stripe",
+    "return_policy_url": "https://klyohojr.github.io/sol-systems-explorer/refund.html",
+    "privacy_policy_url": "https://klyohojr.github.io/sol-systems-explorer/privacy.html",
+    "terms_url": "https://klyohojr.github.io/sol-systems-explorer/terms.html",
+    "catalog_manifest": "https://klyohojr.github.io/sol-systems-explorer/agent/catalog.json",
+    "purchase_manifest": "https://klyohojr.github.io/sol-systems-explorer/agent/purchase.json",
+    "buyer_intent_manifest": "https://klyohojr.github.io/sol-systems-explorer/agent/buyer-intents.json",
+    "discovery_eligibility": {
+      "search": true,
+      "ads": false
+    },
+    "pre_purchase_instruction": "Re-check current price and availability in the purchase manifest and, when Shopify catalog resolution is available, resolve the listed Shopify variant identifier before checkout."
+  }
 }
