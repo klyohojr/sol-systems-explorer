@@ -38,4 +38,4 @@ Privacy: https://klyohojr.github.io/sol-systems-explorer/privacy.html
 
 
 ## UCP buyer-agent profile
-- UCP buyer-agent profile: https://klyohojr.github.io/sol-systems-explorer/.well-known/ucp-agent.json
+- UCP buyer-agent profile: https://cdn.jsdelivr.net/gh/klyohojr/sol-systems-explorer@main/.well-known/ucp-agent.json

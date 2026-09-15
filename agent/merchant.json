@@ -63,6 +63,8 @@
         "SOL-EXPLORER-STARTER-V2": "gid://shopify/ProductVariant/43871901319203",
         "SOL-EXPLORER-STUDIO-V2": "gid://shopify/ProductVariant/43871917146147"
       }
-    }
+    },
+    "buyer_agent_profile": "https://cdn.jsdelivr.net/gh/klyohojr/sol-systems-explorer@main/.well-known/ucp-agent.json",
+    "buyer_agent_profile_hosting_note": "CDN endpoint supplies UCP-required Cache-Control: public with max-age >= 60 seconds; GitHub Pages copy remains a discovery mirror only."
   }
 }
