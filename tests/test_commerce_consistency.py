@@ -3,6 +3,11 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 SPEC=importlib.util.spec_from_file_location('commerce_guard', ROOT/'scripts/validate_commerce.py'); guard=importlib.util.module_from_spec(SPEC); SPEC.loader.exec_module(guard)
 class CommerceConsistencyTests(unittest.TestCase):
+    def test_public_ucp_capabilities_match_agent_profile(self):
+        profile=json.loads((ROOT/'.well-known/ucp-agent.json').read_text())
+        advertised=json.loads((ROOT/'agent/capabilities.json').read_text())
+        self.assertEqual(advertised['ucp'], profile['ucp'])
+
     def test_live_repository_is_consistent(self):
         result=guard.validate(); self.assertEqual(result['products'],3); self.assertEqual(result['feed_records'],3)
     def test_price_drift_fails_closed(self):
